@@ -1,6 +1,7 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/Ishan-Sandaruwan/Ishan-Sandaruwan/assets/138509167/72b40f84-86e6-45ff-afad-67038091b394)
 ### Hi there 👋
 
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 Here are some ideas to get you started:
 
