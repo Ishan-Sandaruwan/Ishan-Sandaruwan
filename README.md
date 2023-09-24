@@ -1,6 +1,6 @@
-<p align=”center”>
-<img width=”200" height=”200" src=”[https://github.com/Ishan-Sandaruwan/Ishan-Sandaruwan/assets/138509167/9c29e65b-8669-4689-b0ed-f3a39ee43e4c.png" alt=”my banner”>
-</p>
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/Ishan-Sandaruwan/Ishan-Sandaruwan/assets/138509167/72b40f84-86e6-45ff-afad-67038091b394)
+### Hi there 👋
+
 
 Here are some ideas to get you started:
 
