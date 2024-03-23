@@ -1,5 +1,3 @@
-# [Your Name]'s GitHub Repository
-
 ## Hi there 👋
 
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/Ishan-Sandaruwan/Ishan-Sandaruwan/assets/138509167/72b40f84-86e6-45ff-afad-67038091b394)
