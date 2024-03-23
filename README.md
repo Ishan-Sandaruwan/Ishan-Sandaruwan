@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm [Your Name], a self-employed university student passionate about coding and technology. I enjoy working on various projects and learning new technologies.
+I'm Ishan Sandaruwan , a self-employed university student passionate about coding and technology. I enjoy working on various projects and learning new technologies.
 
 ### Technologies I Work With
 
@@ -41,7 +41,7 @@ I'm [Your Name], a self-employed university student passionate about coding and 
 
 ### How to Reach Me
 
-- 📫 You can reach out to me via email at sadaruwan0427@gmail.com. I'm also active on LinkedIn, so feel free to connect with me there: [LinkedIn Profile](Your LinkedIn Profile URL).
+- 📫 You can reach out to me via email at sadaruwan0427@gmail.com. I'm also active on LinkedIn, so feel free to connect with me there: https://www.linkedin.com/in/ishan-sandaruwan-06632223a/  .
 
 ### Pronouns
 
