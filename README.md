@@ -1,5 +1,14 @@
+# [Your Name]'s GitHub Repository
+
+## Hi there 👋
+
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/Ishan-Sandaruwan/Ishan-Sandaruwan/assets/138509167/72b40f84-86e6-45ff-afad-67038091b394)
-### Hi there 👋
+
+### About Me
+
+I'm [Your Name], a self-employed university student passionate about coding and technology. I enjoy working on various projects and learning new technologies.
+
+### Technologies I Work With
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -12,14 +21,34 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Here are some ideas to get you started:
+### What I'm Working On
 
-- 🔭 I’m currently working on  I'm currently working on a personal project to build a web application for tracking and managing university assignments and deadlines.
-- 🌱 I’m currently learning  I'm currently learning about APIs with Node.js, Express.js, and MongoDB. It's an exciting journey into building robust backend systems.
-- 👯 I’m looking to collaborate on  I'm looking to collaborate on coding projects related to education technology or web development. If you have similar interests, feel free to reach out!
-- 🤔 I’m looking for help with  I'm looking for help with improving my API design skills and understanding how to implement authentication and security in Node.js applications.
-- 💬 Ask me about  my experiences as a self-employed university student juggling work and academics. I can share some tips on time management and staying organized.
-- 📫 How to reach me: You can reach out to me via email at sadaruwan0427@gmail.com. I'm also active on LinkedIn, so feel free to connect with me there: LinkedIn Profile.
-- 😄 Pronouns: My pronouns are he/him.
-- ⚡ Fun fact: The term "bug" in computer programming originates from an actual bug. In 1947, Grace Hopper, a computer scientist, found a moth stuck in a relay of the Harvard Mark II computer. She removed the moth and taped it into the computer's logbook, noting, "First actual case of bug being found." This incident led to the use of the term "bug" to describe a defect or error in a computer program.
+- 🔭 I’m currently working on a personal project to build a web application for tracking and managing university assignments and deadlines.
 
+### What I'm Learning
+
+- 🌱 I’m currently learning about APIs with Node.js, Express.js, and MongoDB. It's an exciting journey into building robust backend systems.
+
+### Collaboration Opportunities
+
+- 👯 I’m looking to collaborate on coding projects related to education technology or web development. If you have similar interests, feel free to reach out!
+
+### Seeking Help With
+
+- 🤔 I’m looking for help with improving my API design skills and understanding how to implement authentication and security in Node.js applications.
+
+### Ask Me About
+
+- 💬 Ask me about my experiences as a self-employed university student juggling work and academics. I can share some tips on time management and staying organized.
+
+### How to Reach Me
+
+- 📫 You can reach out to me via email at sadaruwan0427@gmail.com. I'm also active on LinkedIn, so feel free to connect with me there: [LinkedIn Profile](Your LinkedIn Profile URL).
+
+### Pronouns
+
+- 😄 My pronouns are he/him.
+
+### Fun Fact
+
+- ⚡ The term "bug" in computer programming originates from an actual bug. In 1947, Grace Hopper, a computer scientist, found a moth stuck in a relay of the Harvard Mark II computer. She removed the moth and taped it into the computer's logbook, noting, "First actual case of bug being found." This incident led to the use of the term "bug" to describe a defect or error in a computer program.
