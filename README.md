@@ -42,7 +42,3 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
 ### How to Reach Me
 
 - 📫 You can reach out to me via email at sadaruwan0427@gmail.com. I'm also active on LinkedIn, so feel free to connect with me there: https://www.linkedin.com/in/ishan-sandaruwan-06632223a/  .
-
-### Fun Fact
-
-- ⚡ The term "bug" in computer programming originates from an actual bug. In 1947, Grace Hopper, a computer scientist, found a moth stuck in a relay of the Harvard Mark II computer. She removed the moth and taped it into the computer's logbook, noting, "First actual case of bug being found." This incident led to the use of the term "bug" to describe a defect or error in a computer program.
