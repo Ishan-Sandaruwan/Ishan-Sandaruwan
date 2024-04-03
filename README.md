@@ -37,13 +37,6 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
 
 - 👯 I’m looking to collaborate on coding projects related to education technology or web development. If you have similar interests, feel free to reach out!
 
-### Seeking Help With
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ishan-Sandaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="Ishan-Sandaruwan" /> </p>
-
----
-
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
@@ -56,7 +49,7 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saveen-maduranga&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ishan-Sandaruwan&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
