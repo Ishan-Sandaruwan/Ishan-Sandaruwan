@@ -11,7 +11,6 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
 
 ### Technologies I Work With
 
-
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -41,30 +40,7 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
 ### Seeking Help With
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saveen-maduranga&label=Profile%20views&color=0e75b6&style=flat" alt="saveen-maduranga" /> </p>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-
-
-- 🌱 I’m currently learning *MERN*
-
-- 🧑‍🎓 I’m an Undergraduate at *NIBM*
-
-- 💬 Ask me about *MERN*
-
-- 📫 How to reach me *saveenonline@gmail.com*
-
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="300" src="mern-stack-01.png">
-
-  </td>
-</tr>
-</table>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ishan-Sandaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="Ishan-Sandaruwan" /> </p>
 
 ---
 
