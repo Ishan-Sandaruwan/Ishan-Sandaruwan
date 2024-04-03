@@ -1,6 +1,9 @@
-## Hi there 👋
+---
+<!--<p align="center" ><img  src = "20240308_221258_0000.png?raw=true" width = 1000px></p>-->
+<h1 align="center">Hi, I'm Ishan Sandaruwan</h1>
+<h3 align="center">A Passionate Full-Stack developer from Sri Lanka</h3>
 
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/Ishan-Sandaruwan/Ishan-Sandaruwan/assets/138509167/72b40f84-86e6-45ff-afad-67038091b394)
+---
 
 ### About Me
 
@@ -8,37 +11,6 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
 
 ### Technologies I Work With
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### What I'm Working On
-
-- 🔭 I’m currently working on a personal project to build a web application for tracking and managing university assignments and deadlines.
-
-### What I'm Learning
-
-- 🌱 I’m currently learning about APIs with Node.js, Express.js, and MongoDB. It's an exciting journey into building robust backend systems.
-
-### Collaboration Opportunities
-
-- 👯 I’m looking to collaborate on coding projects related to education technology or web development. If you have similar interests, feel free to reach out!
-
-### Seeking Help With
-
----
-<!--<p align="center" ><img  src = "20240308_221258_0000.png?raw=true" width = 1000px></p>-->
-<h1 align="center">Hi, I'm Saveen Maduranga Samarakoon</h1>
-<h3 align="center">A Passionate MERN-Stack developer from Sri Lanka</h3>
-
----
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -54,6 +26,20 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### What I'm Working On
+
+- 🔭 I’m currently working on a personal project to build a web application for tracking and managing university assignments and deadlines.
+
+### What I'm Learning
+
+- 🌱 I’m currently learning about APIs with Node.js, Express.js, and MongoDB. It's an exciting journey into building robust backend systems.
+
+### Collaboration Opportunities
+
+- 👯 I’m looking to collaborate on coding projects related to education technology or web development. If you have similar interests, feel free to reach out!
+
+### Seeking Help With
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saveen-maduranga&label=Profile%20views&color=0e75b6&style=flat" alt="saveen-maduranga" /> </p>
 
