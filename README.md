@@ -43,9 +43,9 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=saveen-maduranga&theme=light&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ishan-Sandaruwan&theme=light&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saveen-maduranga&theme=light&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan-Sandaruwan&theme=light&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
@@ -54,17 +54,6 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
   </td>
 </tr>
 </table>
-
-
-
----
----
----
-- 🤔 I’m looking for help with improving my API design skills and understanding how to implement authentication and security in Node.js applications.
-
-### Ask Me About
-
-- 💬 Ask me about my experiences as a self-employed university student juggling work and academics. I can share some tips on time management and staying organized.
 
 ### How to Reach Me
 
