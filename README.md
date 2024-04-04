@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Full-Stack developer from Sri Lanka</h3>
 
 ---
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
 
 ### About Me
 
