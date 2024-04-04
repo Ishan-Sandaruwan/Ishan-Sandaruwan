@@ -1,11 +1,10 @@
 ---
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<!--<p align="center" ><img  src = "20240308_221258_0000.png?raw=true" width = 1000px></p>-->
+
 <h1 align="center">Hi, I'm Ishan Sandaruwan</h1>
 <h3 align="center">A Passionate Full-Stack developer from Sri Lanka</h3>
 
 ---
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)"/>
 
 ### About Me
 
