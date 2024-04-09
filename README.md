@@ -48,7 +48,8 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ishan-Sandaruwan&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-sandaruwan&" alt="ishan-sandaruwan" /></p>
+
   </td>
 </tr>
 </table>
