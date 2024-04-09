@@ -58,13 +58,6 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
 
 - 📫 You can reach out to me via email at sadaruwan0427@gmail.com. I'm also active on LinkedIn, so feel free to connect with me there: https://www.linkedin.com/in/ishan-sandaruwan-06632223a/  .
 
-- 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
