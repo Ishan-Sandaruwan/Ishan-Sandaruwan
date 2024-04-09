@@ -59,9 +59,7 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
 - 📫 You can reach out to me via email at sadaruwan0427@gmail.com. I'm also active on LinkedIn, so feel free to connect with me there: https://www.linkedin.com/in/ishan-sandaruwan-06632223a/  .
 
 - 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan-sandaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="ishan-sandaruwan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishan-sandaruwan" alt="ishan-sandaruwan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
