@@ -76,6 +76,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
     </td>
     <td>
+    </td>
+    <td>
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
     </td>
     <td>
@@ -94,6 +96,9 @@
     <td>
     </td>
     <td>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+    </td>
+    <td>
     </td>
   </tr>
   <tr>
@@ -106,21 +111,6 @@
     <td>
     </td>
     <td>
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
     </td>
     <td>
     </td>
