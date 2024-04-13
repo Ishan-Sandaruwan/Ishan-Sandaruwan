@@ -48,6 +48,7 @@
     <tr>
       <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg'>
         <!-- Add other language icons -->
       </td>
       <td>
