@@ -100,7 +100,8 @@
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
     </td>
     <td>
-    </td>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  </td>
   </tr>
   <tr>
     <td>
