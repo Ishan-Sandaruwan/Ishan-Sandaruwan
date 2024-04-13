@@ -46,6 +46,54 @@ I'm Ishan Sandaruwan , a self-employed university student passionate about codin
 
 - 📫 You can reach out to me via email at sadaruwan0427@gmail.com. I'm also active on LinkedIn, so feel free to connect with me there: https://www.linkedin.com/in/ishan-sandaruwan-06632223a/  .
 
+<table>
+  <tr>
+    <th><h3 align="center">Languages</h3></th>
+    <th><h3 align="center">Frontend</h3></th>
+    <th><h3 align="center">Backend</h3></th>
+    <th><h3 align="center">Mobile/h3></th>
+    <th><h3 align="center">Database</h3></th>
+    <th><h3 align="center">Software</h3></th> 
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Programming-%2300599C?style=flat-square&logo=C"</a>
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Programming-%2300599C?style=flat-square&logo=C%2B%2B"/>  
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-%23512BD4?style=flat-square&logo=C%23&logoColor=white"/> 
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white"/>
+      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a></a>
+    </td>
+    <td>
+      <p align="center">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white"/></a></p>
+    </td>
+    <td>
+     <p align="center">
+      <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android_Studio-%233DDC84?style=flat-square&logo=Android%20Studio&logoColor=green&labelColor=black"/></a></p>
+    </td>
+    <td>
+     <p align="center">
+      <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android_Studio-%233DDC84?style=flat-square&logo=Android%20Studio&logoColor=green&labelColor=black"/></a></p>
+    </td>
+    <td>
+    <p align="center">
+     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ORACLE-%23F80000?style=flat-square&logo=oracle&logoColor=white"/></a></p>
+    </td>
+    <td>
+      <p align="center">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white"/> </a>
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=flat-square&logo=adobeillustrator&logoColor=black"/> </a>
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=flat-square&logo=adobephotoshop&logoColor=black"/> </a>
+      <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sketch-%23F7B500?style=flat-square&logo=sketch&logoColor=black"/> </a>
+      <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6?style=flat-square&logo=adobexd&logoColor=black"/></a>
+      </a></p>
+    </td>
+  </tr>
+</table>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
