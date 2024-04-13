@@ -92,6 +92,7 @@
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
     </td>
     <td>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="Mongoose" width="40" height="40"/>
     </td>
     <td>
     </td>
