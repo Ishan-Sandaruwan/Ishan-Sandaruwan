@@ -17,17 +17,21 @@
     <li>👯 Seeking collaborations on projects related to education technology or web development. If you share similar interests, let's connect!</li>
   </ul>
 </div>
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishan-sandaruwan&show_icons=true&locale=en" alt="ishan-sandaruwan" /></p>
+  <br></br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-sandaruwan&" alt="ishan-sandaruwan" /></p>
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ishan-Sandaruwan&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 <div align="center">
-  <h2>My Statistics</h2>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ishan-sandaruwan&show_icons=true&locale=en" alt="ishan-sandaruwan" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-sandaruwan&" alt="ishan-sandaruwan" />
-      </td>
-    </tr>
+  
   </table>
 </div>
 <div align="center">
