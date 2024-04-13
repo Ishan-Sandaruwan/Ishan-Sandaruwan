@@ -53,8 +53,6 @@
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
     </td>
     <td>
-      <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" alt="HTML" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/css/css-icon.svg" alt="CSS" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
