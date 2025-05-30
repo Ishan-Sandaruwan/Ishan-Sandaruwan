@@ -1,125 +1,78 @@
-<h1 align="center">Hi there, I'm Ishan Sandaruwan</h1>
-<h3 align="center">Passionate Full-Stack Developer from Sri Lanka</h3>
-<div>
-  <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
-  <h2>About Me</h2>
-  <p>I'm Ishan Sandaruwan, a self-employed university student with a fervent interest in coding and technology. I thrive on working on diverse projects and constantly expanding my tech horizons.</p>
-  <h2>Current Focus</h2>
-  <ul>
-    <li>🔭 Building a web application for tracking and managing university assignments and deadlines.</li>
-  </ul>
-  <h2>Learning</h2>
-  <ul>
-    <li>🌱 Exploring APIs with Node.js, Express.js, and MongoDB, diving deep into building robust backend systems.</li>
-  </ul>
-  <h2>Collaboration Opportunities</h2>
-  <ul>
-    <li>👯 Seeking collaborations on projects related to education technology or web development. If you share similar interests, let's connect!</li>
-  </ul>
-</div>
-<h3 align="center">My Statistics:</h3>
+<h1 align="center">Hey there 👋, I'm Ishan Sandaruwan</h1>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishan-sandaruwan&show_icons=true&locale=en" alt="ishan-sandaruwan" /></p>
-  <br></br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-sandaruwan&" alt="ishan-sandaruwan" /></p>
-</td>
-<td width="50%" align="center">
+  <em>Full-Stack Developer | Co-Founder at <strong>EndlessRaven</strong> | Cloud Systems Enthusiast | Building for Impact</em>
+</p>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ishan-Sandaruwan&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-<div align="center">
-  
-  </table>
-</div>
-<div align="center">
-  <h2>How to Reach Me</h2>
-  <p>You can reach out to me via email at <a href="mailto:sadaruwan0427@gmail.com">sadaruwan0427@gmail.com</a>. Connect with me on <a href="https://www.linkedin.com/in/ishan-sandaruwan-06632223a/">LinkedIn</a> too!</p>
-</div>
-<div align="center">
-<h2>Languages & Tools</h2>
-<table>
-  <tr>
-    <th>Languages</th>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Mobile</th>
-    <th>Database</th>
-    <th>Software</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-    </td>
-    <td>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-    </td>
-    <td>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="Mongoose" width="40" height="40"/>
-    </td>
-    <td>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
-    </td>
-    <td>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
-</table>
+---
 
+### 👨‍💻 About Me
+
+Hi! I'm Ishan, a passionate full-stack developer based in Sri Lanka. I'm currently pursuing a degree in Software Engineering and co-leading **EndlessRaven Software Solutions**, where we build modern web and cloud-based applications that solve real business problems.
+
+With hands-on experience in both frontend and backend technologies, I'm particularly focused on developing **scalable cloud systems**, **multi-tenant architectures**, and **Next.js applications**. I’m committed to mastering the craft and growing into one of the top 1% developers in the industry.
+
+---
+
+### 🚀 What I'm Working On
+
+- 🔧 **Biz Gennie** – Our flagship cloud-based ERP for small and medium-sized businesses.
+- 📚 A university-focused assignment manager web app to help students track tasks and deadlines.
+- 🧠 Deep diving into **multi-threaded database architectures** and **tenant-aware PostgreSQL systems**.
+
+---
+
+### 📌 Tech Stack
+
+#### 🧠 Core Skills
+- **Frontend**: Next.js, React, Tailwind CSS, Redux
+- **Backend**: Node.js, Express.js, REST APIs, JWT Auth
+- **Databases**: PostgreSQL, MongoDB, Firebase
+- **Languages**: JavaScript, TypeScript, Python, C#, Java
+
+#### 🛠 Tools & Platforms
+- Prisma, Git, Postman, Docker (learning), Vercel, Railway
+- VS Code, GitHub Projects, Notion
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishan-Sandaruwan&show_icons=true&theme=default&hide=stars&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan-Sandaruwan" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Sandaruwan&layout=compact" />
+</p>
+
+---
+
+### 🤝 Let's Collaborate
+
+I’m open to collaborating on:
+- 🚀 Startups and SaaS projects
+- 📘 Education technology solutions
+- 🧩 Backend infrastructure and API design
+
+Feel free to reach out if you have an idea or project in mind.
+
+---
+
+### 📬 Contact Me
+
+- 📧 Email: [sadaruwan0427@gmail.com](mailto:sadaruwan0427@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ishan-sandaruwan-06632223a](https://www.linkedin.com/in/ishan-sandaruwan-06632223a/)
+
+---
+
+### 🌱 Goals for 2025
+
+- ✅ Become a top 1% Next.js full-stack developer  
+- 🚗 Buy my first car  
+- 📈 Scale EndlessRaven into a thriving SaaS company  
+- 🏠 Invest in land and build a home  
+- ❤️ Support my family and secure financial freedom  
+
+---
+
+> “Build to learn. Build to earn. Build to serve.”
