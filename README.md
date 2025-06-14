@@ -46,8 +46,9 @@ Feel free to reach out if you have an idea or project in mind.
 
 ### 📬 Contact Me
 
-- 📧 Email: [ishan7official@gmail.com](mailto:ishan7official@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/ishan-sandaruwan](https://www.linkedin.com/in/ishan-sandaruwan)
+- 📧 **Email**: [ishan7official@gmail.com](mailto:ishan7official@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/ishan-sandaruwan](https://www.linkedin.com/in/ishan-sandaruwan)
+- 🌐 **Website**: [ishans.dev](https://ishans.dev)
 
 ---
 
